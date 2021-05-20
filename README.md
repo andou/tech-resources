@@ -9,6 +9,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#generic-silver-bullets">Generic silver bullets</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
+<li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-things">Sharing Things</a></li>
 <li><a href="#PHP">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
@@ -16,7 +17,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 </ul>
 
 ## Generic silver bullets
-- [Google](https://www.google.com) : No needs to add anything
+- [Google](https://www.google.com) : No need to add anything
 - [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
 - [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
 
@@ -38,6 +39,19 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Checking websites
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Nibbler](https://nibbler.silktide.com/)
+- [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
+- [WebPageTest](https://www.webpagetest.org/)
+- [Meta Tags](https://metatags.io/)
+- [BuiltWith](https://builtwith.com/)
+- [Ionos Website Checker](https://www.ionos.com/tools/website-checker)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -70,6 +84,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [ExplainShell](https://explainshell.com/)
 - [The Bash Academy](https://guide.bash.academy/)
 - [Learn Shell Programming](https://www.learnshell.org/)
+- [Learning the shell](http://linuxcommand.org/index.php)
 - [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 - [LinuxConfig's Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 
