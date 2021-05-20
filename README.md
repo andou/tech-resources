@@ -11,9 +11,9 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-things">Sharing Things</a></li>
-<li><a href="#PHP">PHP</a></li>
+<li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
-<li><a href="#personal-tech">Personal tech</a></li>
+<li><a href="#Amusement">Amusement</a></li>
 </ul>
 
 ## Generic silver bullets
@@ -45,6 +45,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 </div>
 
 ## Checking websites
+- [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Nibbler](https://nibbler.silktide.com/)
 - [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
@@ -92,8 +93,22 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Personal tech
+## Amusement
+### Software
 - [AlternativeTo](https://alternativeto.net) : A list of software alternatives.
+### PC Modding
+- [Logical Increments](https://www.logicalincrements.com/)
+- [PC Part Picker](https://pcpartpicker.com/)
+### Crowdfunding
+- [Indiegogo](https://www.indiegogo.com/)
+- [Kickstarter](https://www.kickstarter.com/)
+- [Fig.co](https://www.fig.co/)
+### Gaming
+- [Steam](https://store.steampowered.com/)
+- [GOG](https://www.gog.com/)
+- [Humble Bundle](https://www.humblebundle.com/)
+- [Epic Games](https://www.epicgames.com/)
+- [IsThereAnyDeal](https://isthereanydeal.com/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
