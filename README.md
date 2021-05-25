@@ -88,6 +88,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [Learning the shell](http://linuxcommand.org/index.php)
 - [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 - [LinuxConfig's Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
+- [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg) : Did you ever got stuck in vi(m)? Never again!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
