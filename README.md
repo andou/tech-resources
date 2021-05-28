@@ -97,6 +97,8 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 ## Amusement
 ### Software
 - [AlternativeTo](https://alternativeto.net) : A list of software alternatives.
+### Frontend Stuffs
+- [Boring Avatars](https://boringavatars.com/) : Library to create SVG random avatars, nice...
 ### PC Modding
 - [Logical Increments](https://www.logicalincrements.com/)
 - [PC Part Picker](https://pcpartpicker.com/)
