@@ -54,6 +54,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [Meta Tags](https://metatags.io/)
 - [BuiltWith](https://builtwith.com/)
 - [Ionos Website Checker](https://www.ionos.com/tools/website-checker)
+- [Solid Tools for Developers](https://soliddevtools.com/) : Generic debugging tools ([dig](https://soliddevtools.com/domain-tools/dig-lookup), [whois](https://soliddevtools.com/domain-tools/domain-whois-lookup), [ping](https://soliddevtools.com/network-tools/ping-server-checker), [traceroute](https://soliddevtools.com/network-tools/trace-route-network-trace), etc.)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -103,6 +104,8 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 - [LinuxConfig's Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 - [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg) : Did you ever got stuck in vi(m)? Never again!
+- [Crontab Guru](https://crontab.guru/) : An online editor for cron schedule expressions
+- [Chmod Calculator](https://chmod-calculator.com/) : An awesome Chmod Calculator to convert Linux file permissions between different formats
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
