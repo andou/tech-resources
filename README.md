@@ -11,6 +11,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-things">Sharing Things</a></li>
+<li><a href="#git">GIT</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#Amusement">Amusement</a></li>
@@ -66,6 +67,19 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [Pastebin](https://pastebin.com/)
 - [TinyURL](https://tinyurl.com/app)
 - [We Transfer](https://wetransfer.com/)
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## GIT
+- [git-scm.com](https://git-scm.com/)
+- [GIT Documentation](https://git-scm.com/doc)
+- [Git cheat sheet](https://ohshitgit.com/)
+- [.gitignore samples](https://www.toptal.com/developers/gitignore)
+- [Git Branching](https://learngitbranching.js.org/)
+- [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578)
+- [Fancy profiles in Github](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
