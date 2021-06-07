@@ -61,13 +61,14 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 </div>
 
 ## Sharing Things
-- [Github Gist](https://gist.github.com/)
-- [Ngrok](https://ngrok.com/)
-- [Ideone.com](https://ideone.com/)
-- [Wandbox](https://wandbox.org/)
-- [Pastebin](https://pastebin.com/)
-- [TinyURL](https://tinyurl.com/app)
-- [We Transfer](https://wetransfer.com/)
+- [Github Gist](https://gist.github.com/): Share code snippet and/or single file scripts
+- [Ngrok](https://ngrok.com/): Web publish and share your local environment like a boss
+- [Ideone.com](https://ideone.com/): Share and execute code snippets
+- [Wandbox](https://wandbox.org/): Share and execute code snippets
+- [Postimages](https://postimages.org/): Simple image sharing, you can use it to post images in github wikis
+- [Pastebin](https://pastebin.com/): Share code snippet, JSON packets, XML packets, logs and stuff like these
+- [TinyURL](https://tinyurl.com/app): Shortening long and boring URLs
+- [We Transfer](https://wetransfer.com/): Should I really describe it?
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
