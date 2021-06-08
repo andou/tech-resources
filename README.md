@@ -11,7 +11,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-things">Sharing Things</a></li>
-<li><a href="#git">GIT & versioning</a></li>
+<li><a href="#git--versioning">GIT & versioning</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#Amusement">Amusement</a></li>
