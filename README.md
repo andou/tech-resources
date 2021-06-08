@@ -11,7 +11,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-things">Sharing Things</a></li>
-<li><a href="#git">GIT</a></li>
+<li><a href="#git">GIT & versioning</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#Amusement">Amusement</a></li>
@@ -74,7 +74,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## GIT
+## GIT & versioning
 - [git-scm.com](https://git-scm.com/)
 - [GIT Documentation](https://git-scm.com/doc)
 - [Git cheat sheet](https://ohshitgit.com/)
@@ -82,6 +82,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [Git Branching](https://learngitbranching.js.org/)
 - [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578)
 - [Fancy profiles in Github](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
+- [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
