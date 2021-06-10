@@ -94,7 +94,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [markdowntopdf](https://www.markdowntopdf.com/): Free and reliable converter from markdown files to PDF
-- [MacDown](https://macdown.uranusjr.com/): Ppen source Markdown editor for macOS
+- [MacDown](https://macdown.uranusjr.com/): Open source Markdown editor for macOS
 - [StackEdit](https://stackedit.io/): In-browser Markdown editor
 
 <div align="right">
