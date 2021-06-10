@@ -83,7 +83,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [.gitignore samples](https://www.toptal.com/developers/gitignore)
 - [Git Branching](https://learngitbranching.js.org/)
 - [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578)
-- Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+- Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) [#3](https://github.com/kyechan99/capsule-render)
 - [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
 
 <div align="right">
