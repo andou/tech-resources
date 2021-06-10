@@ -1,4 +1,5 @@
-# My awesome list of useful resources
+![slice](https://capsule-render.vercel.app/api?type=slice&color=228C22&fontColor=EEEEEE&height=200&text=tech-resources&fontAlign=70&rotate=13&fontAlignY=25&desc=My+awesome+list+of+useful+resources&descAlign=70.&descAlignY=44)
+
 Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 
 Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
