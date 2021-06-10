@@ -14,7 +14,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#git--versioning">GIT & versioning</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
-<li><a href="#Amusement">Amusement</a></li>
+<li><a href="#amusement">Amusement</a></li>
 </ul>
 
 ## Generic silver bullets
@@ -87,6 +87,18 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## Markdown (:heart:)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [markdowntopdf](https://www.markdowntopdf.com/): Free and reliable converter from markdown files to PDF
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
 
 ## PHP
 - [PHP.net](https://www.php.net/)
