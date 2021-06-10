@@ -12,6 +12,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-things">Sharing Things</a></li>
 <li><a href="#git--versioning">GIT & versioning</a></li>
+<li><a href="##markdown-heart">Markdown</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#amusement">Amusement</a></li>
@@ -93,6 +94,8 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [markdowntopdf](https://www.markdowntopdf.com/): Free and reliable converter from markdown files to PDF
+- [MacDown](https://macdown.uranusjr.com/): Ppen source Markdown editor for macOS
+- [StackEdit](https://stackedit.io/): In-browser Markdown editor
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
