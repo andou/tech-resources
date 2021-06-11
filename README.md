@@ -11,7 +11,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
 <li><a href="#checking-websites">Checking websites</a></li>
-<li><a href="#sharing-things">Sharing Things</a></li>
+<li><a href="#sharing-stuff">Sharing Stuff</a></li>
 <li><a href="#git--versioning">GIT & versioning</a></li>
 <li><a href="#markdown-heart">Markdown</a></li>
 <li><a href="#php">PHP</a></li>
@@ -49,21 +49,23 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 ## Checking websites
-- [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
-- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-- [Nibbler](https://nibbler.silktide.com/)
-- [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
-- [WebPageTest](https://www.webpagetest.org/)
-- [Meta Tags](https://metatags.io/)
-- [BuiltWith](https://builtwith.com/)
-- [Ionos Website Checker](https://www.ionos.com/tools/website-checker)
+- [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/) : Well known tool to evaluate your website performances
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) : Well known tool to evaluate your website performances
+- [Nibbler](https://nibbler.silktide.com/) : gives a website report scoring out of 10 for key areas, including accessibility, SEO, social media and technology
+- [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) : A valid website vulnerability scanner
+- [WebPageTest](https://www.webpagetest.org/) : Measures the speed and performances of a website
+- [Meta Tags](https://metatags.io/) : Checking a website meta tags
+- [BuiltWith](https://builtwith.com/) : Checking (_guessing_) the technologies behind a website
+- [Ionos Website Checker](https://www.ionos.com/tools/website-checker) : Generic (security, accessibility, speed) website checker
 - [Solid Tools for Developers](https://soliddevtools.com/) : Generic debugging tools ([dig](https://soliddevtools.com/domain-tools/dig-lookup), [whois](https://soliddevtools.com/domain-tools/domain-whois-lookup), [ping](https://soliddevtools.com/network-tools/ping-server-checker), [traceroute](https://soliddevtools.com/network-tools/trace-route-network-trace), etc.)
+- [JSON Editor Online](https://jsoneditoronline.org/) : My favourite JSON checker / editor
+- [Online JSON Viewer](http://jsonviewer.stack.hu/) : Another valid JSON checker / editor
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Sharing Things
+## Sharing Stuff
 - [Github Gist](https://gist.github.com/) : Share code snippet and/or single file scripts
 - [Ngrok](https://ngrok.com/) : Web publish and share your local environment like a boss
 - [Ideone.com](https://ideone.com/) : Share and execute code snippets
