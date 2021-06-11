@@ -14,7 +14,6 @@ Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 <li><a href="#markdown-heart">Markdown</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
-<li><a href="#amusement">Amusement</a></li>
 <li><a href="#credits">Credits</a></li>
 </ul>
 
@@ -123,29 +122,6 @@ Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 - [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg) : Did you ever got stuck in vi(m)? Never again!
 - [Crontab Guru](https://crontab.guru/) : An online editor for cron schedule expressions
 - [Chmod Calculator](https://chmod-calculator.com/) : An awesome Chmod Calculator to convert Linux file permissions between different formats
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Amusement
-### Software
-- [AlternativeTo](https://alternativeto.net) : A list of software alternatives.
-### Frontend Stuff
-- [Boring Avatars](https://boringavatars.com/) : Library to create SVG random avatars, nice...
-### PC Modding
-- [Logical Increments](https://www.logicalincrements.com/)
-- [PC Part Picker](https://pcpartpicker.com/)
-### Crowdfunding
-- [Indiegogo](https://www.indiegogo.com/)
-- [Kickstarter](https://www.kickstarter.com/)
-- [Fig.co](https://www.fig.co/)
-### Gaming
-- [Steam](https://store.steampowered.com/)
-- [GOG](https://www.gog.com/)
-- [Humble Bundle](https://www.humblebundle.com/)
-- [Epic Games](https://www.epicgames.com/)
-- [IsThereAnyDeal](https://isthereanydeal.com/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
