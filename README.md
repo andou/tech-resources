@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=228C22&height=300&section=header&text=tech🔧resources&fontColor=EEEEEE&fontSize=75&animation=fadeIn&fontAlignY=38&desc=My+awesome+list+of+useful+resources&descAlignY=51&descAlign=62)
 
-Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
+Below is a list of useful list of tech resource for web developers. Enjoy it! :smile:
+
+Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 
 ## Index
@@ -14,6 +16,7 @@ Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 <li><a href="#markdown-heart">Markdown</a></li>
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
+<li><a href="#disposable-services">Disposable Services</a></li>
 <li><a href="#credits">Credits</a></li>
 </ul>
 
@@ -61,27 +64,27 @@ Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 </div>
 
 ## Sharing Things
-- [Github Gist](https://gist.github.com/): Share code snippet and/or single file scripts
-- [Ngrok](https://ngrok.com/): Web publish and share your local environment like a boss
-- [Ideone.com](https://ideone.com/): Share and execute code snippets
-- [Wandbox](https://wandbox.org/): Share and execute code snippets
-- [Postimages](https://postimages.org/): Simple image sharing, you can use it to post images in github wikis
-- [Pastebin](https://pastebin.com/): Share code snippet, JSON packets, XML packets, logs and stuff like these
-- [TinyURL](https://tinyurl.com/app): Shortening long and boring URLs
-- [We Transfer](https://wetransfer.com/): Should I really describe it?
+- [Github Gist](https://gist.github.com/) : Share code snippet and/or single file scripts
+- [Ngrok](https://ngrok.com/) : Web publish and share your local environment like a boss
+- [Ideone.com](https://ideone.com/) : Share and execute code snippets
+- [Wandbox](https://wandbox.org/) : Share and execute code snippets
+- [Postimages](https://postimages.org/) : Simple image sharing, you can use it to post images in github wikis
+- [Pastebin](https://pastebin.com/) : Share code snippet, JSON packets, XML packets, logs and stuff like these
+- [TinyURL](https://tinyurl.com/app) : Shortening long and boring URLs
+- [We Transfer](https://wetransfer.com/) : Should I really describe it?
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## GIT & versioning
-- [git-scm.com](https://git-scm.com/)
-- [GIT Documentation](https://git-scm.com/doc)
-- [Git cheat sheet](https://ohshitgit.com/)
-- [.gitignore samples](https://www.toptal.com/developers/gitignore)
-- [Git Branching](https://learngitbranching.js.org/)
-- [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578)
-- Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) [#3](https://github.com/kyechan99/capsule-render)
+- [git-scm.com](https://git-scm.com/) : Git website
+- [GIT Documentation](https://git-scm.com/doc) : Well written and comprehensive git documentation
+- [Git cheat sheet](https://ohshitgit.com/) : Basic git cheat sheet
+- [.gitignore samples](https://www.toptal.com/developers/gitignore) : Useful `.gitignore` sample
+- [Git Branching](https://learngitbranching.js.org/) : Learns the basics of git branching
+- [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578) : Shed some light on the Git terminology
+- Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) / [#3](https://github.com/kyechan99/capsule-render) : Do you want to put some glitter on you?
 - [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
 
 <div align="right">
@@ -89,12 +92,12 @@ Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 </div>
 
 ## Markdown (:heart:)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [markdowntopdf](https://www.markdowntopdf.com/): Free and reliable converter from markdown files to PDF
-- [MacDown](https://macdown.uranusjr.com/): Open source Markdown editor for macOS
-- [StackEdit](https://stackedit.io/): In-browser Markdown editor
+- [Markdown Guide](https://www.markdownguide.org/) : A guide to the beloved Markdown language
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) : A quick Markdown cheat sheet
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) : Advanced Markdown
+- [markdowntopdf](https://www.markdowntopdf.com/) : Free and reliable converter from markdown files to PDF
+- [MacDown](https://macdown.uranusjr.com/) : Open source Markdown editor for macOS
+- [StackEdit](https://stackedit.io/) : In-browser Markdown editor
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -103,25 +106,33 @@ Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
 
 
 ## PHP
-- [PHP.net](https://www.php.net/)
-- [PHP Manual](https://www.php.net/manual/en/)
-- [PHP Tester](http://phptester.net/)
-- [PHP Sandbox](https://sandbox.onlinephpfunctions.com/)
+- [PHP.net](https://www.php.net/) : Good ol' PHP home page
+- [PHP Manual](https://www.php.net/manual/en/) : Generic PHP manual
+- [PHP Tester](http://phptester.net/) : Test your PHP code online
+- [PHP Sandbox](https://sandbox.onlinephpfunctions.com/) : Another PHP online testing tool
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## Bash and Shell
-- [ExplainShell](https://explainshell.com/)
-- [The Bash Academy](https://guide.bash.academy/)
-- [Learn Shell Programming](https://www.learnshell.org/)
-- [Learning the shell](http://linuxcommand.org/index.php)
-- [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-- [LinuxConfig's Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
+- [ExplainShell](https://explainshell.com/) : Quick and handy command line reference
+- [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) : Exhaustive bash reference
+- [The Bash Academy](https://guide.bash.academy/) : A bash guide
+- [Learn Shell Programming](https://www.learnshell.org/) : Another bash guide
+- [Learning the shell](http://linuxcommand.org/index.php) : Yet another bash guide
+- [LinuxConfig's Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial) : A nice bash scripting tutorial
 - [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg) : Did you ever got stuck in vi(m)? Never again!
 - [Crontab Guru](https://crontab.guru/) : An online editor for cron schedule expressions
 - [Chmod Calculator](https://chmod-calculator.com/) : An awesome Chmod Calculator to convert Linux file permissions between different formats
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Disposable Services
+- [YOPmail](https://yopmail.com/): A disposable mail services
+- [Guerrilla Mail](https://www.guerrillamail.com/): Another disposable mail services
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
