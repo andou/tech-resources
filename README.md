@@ -1,8 +1,6 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=228C22&fontColor=EEEEEE&height=200&text=tech-resources&fontAlign=70&rotate=13&fontAlignY=25&desc=My+awesome+list+of+useful+resources&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=228C22&height=300&section=header&text=tech🔧resources&fontColor=EEEEEE&fontSize=75&animation=fadeIn&fontAlignY=38&desc=My+awesome+list+of+useful+resources&descAlignY=51&descAlign=62)
 
 Below is a list of useful resource for tech enthusiast. Enjoy! :smile:
-
-Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 
 ## Index
@@ -17,6 +15,7 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
 <li><a href="#php">PHP</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#amusement">Amusement</a></li>
+<li><a href="#credits">Credits</a></li>
 </ul>
 
 ## Generic silver bullets
@@ -152,6 +151,14 @@ Shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https:/
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Credits
+
+Basic idea of a repository like this was shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit).
+
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 
 
