@@ -144,6 +144,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 Basic idea of a repository like this was shamelessly inspired by [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit).
 
+It's an exciting time to be a web developer or a generic computer science enthusiast. Community is thriving and you can easily access a lot (I mean, really **A LOT**) of free stuff. Do not miss the chance to take a look at the [awesome list of list](https://github.com/sindresorhus/awesome) and always look forward but staying in the moment :smile:
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
