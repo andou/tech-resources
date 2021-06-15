@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=228C22&height=300&section=header&text=tech🔧resources&fontColor=EEEEEE&fontSize=75&animation=fadeIn&fontAlignY=38&desc=My+awesome+list+of+useful+resources&descAlignY=51&descAlign=62)
 
-Below is a list of useful tech resources for web developers. Enjoy it :smile: and give it a :star:!
+Below is a curated list of useful tech resources for web developers :neckbeard:. 
+
+Enjoy it :smile: and give it a :star:!
 
 Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
