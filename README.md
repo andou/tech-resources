@@ -7,9 +7,6 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ## Index
 <ul>
-<li><a href="#news">News</a></li>
-<li><a href="#generic-silver-bullets">Generic silver bullets</a></li>
-<li><a href="#magazines">Magazines</a></li>
 <li><a href="#checking-websites">Checking websites</a></li>
 <li><a href="#sharing-stuff">Sharing Stuff</a></li>
 <li><a href="#git--versioning">GIT & versioning</a></li>
@@ -19,36 +16,11 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <li><a href="#devops">Devops</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#disposable-services">Disposable Services</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#generic-silver-bullets">Generic silver bullets</a></li>
+<li><a href="#magazines">Magazines</a></li>
 <li><a href="#credits">Credits</a></li>
 </ul>
-
-## News
-- [Hacker News](https://news.ycombinator.com) : Possibly the best technology-focused community
-- [Lobsters](https://lobste.rs) : Another valid technology-focused community.
-- [The DEV Community](https://dev.to) : A good place where to share ideas and helps.
-- [Slashdot](https://slashdot.org/) : If you've read all the previous stuff and your lunch break isn't over.
-- [TLDR Newsletter](https://tldr.tech/) : Probably the best tech newsletter digest out there.
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Generic silver bullets
-- [Google](https://www.google.com) : No need to add anything
-- [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
-- [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Magazines
-- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
-- [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
 
 ## Checking websites
 - [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/) : Well known tool to evaluate your website performances
@@ -162,6 +134,36 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+
+## News
+- [Hacker News](https://news.ycombinator.com) : Possibly the best technology-focused community
+- [Lobsters](https://lobste.rs) : Another valid technology-focused community.
+- [The DEV Community](https://dev.to) : A good place where to share ideas and helps.
+- [Slashdot](https://slashdot.org/) : If you've read all the previous stuff and your lunch break isn't over.
+- [TLDR Newsletter](https://tldr.tech/) : Probably the best tech newsletter digest out there.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Generic silver bullets
+- [Google](https://www.google.com) : No need to add anything
+- [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
+- [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Magazines
+- [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
+- [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 
 ## Credits
 
