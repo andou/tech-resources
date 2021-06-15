@@ -17,8 +17,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#disposable-services">Disposable Services</a></li>
 <li><a href="#news">News</a></li>
-<li><a href="#generic-silver-bullets">Generic silver bullets</a></li>
 <li><a href="#magazines">Magazines</a></li>
+<li><a href="#generic-silver-bullets">Generic silver bullets</a></li>
 <li><a href="#credits">Credits</a></li>
 </ul>
 
@@ -147,14 +147,6 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Generic silver bullets
-- [Google](https://www.google.com) : No need to add anything
-- [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
-- [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
 
 ## Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
@@ -164,6 +156,14 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Generic silver bullets
+- [Google](https://www.google.com) : No need to add anything
+- [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
+- [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 ## Credits
 
