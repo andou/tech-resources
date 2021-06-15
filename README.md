@@ -23,6 +23,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </ul>
 
 ## Checking websites
+- [Solid Tools for Developers](https://soliddevtools.com/) : Generic debugging tools ([dig](https://soliddevtools.com/domain-tools/dig-lookup), [whois](https://soliddevtools.com/domain-tools/domain-whois-lookup), [ping](https://soliddevtools.com/network-tools/ping-server-checker), [traceroute](https://soliddevtools.com/network-tools/trace-route-network-trace), etc.)
 - [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/) : Well known tool to evaluate your website performances
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) : Well known tool to evaluate your website performances
 - [Nibbler](https://nibbler.silktide.com/) : gives a website report scoring out of 10 for key areas, including accessibility, SEO, social media and technology
@@ -31,7 +32,6 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Meta Tags](https://metatags.io/) : Checking a website meta tags
 - [BuiltWith](https://builtwith.com/) : Checking (_guessing_) the technologies behind a website
 - [Ionos Website Checker](https://www.ionos.com/tools/website-checker) : Generic (security, accessibility, speed) website checker
-- [Solid Tools for Developers](https://soliddevtools.com/) : Generic debugging tools ([dig](https://soliddevtools.com/domain-tools/dig-lookup), [whois](https://soliddevtools.com/domain-tools/domain-whois-lookup), [ping](https://soliddevtools.com/network-tools/ping-server-checker), [traceroute](https://soliddevtools.com/network-tools/trace-route-network-trace), etc.)
 - [JSON Editor Online](https://jsoneditoronline.org/) : My favourite JSON checker / editor
 - [Online JSON Viewer](http://jsonviewer.stack.hu/) : Another valid JSON checker / editor
 
@@ -40,12 +40,12 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 ## Sharing Stuff
+- [Pastebin](https://pastebin.com/) : Share code snippet, JSON packets, XML packets, logs and stuff like these
+- [Postimages](https://postimages.org/) : Simple image sharing, you can use it to post images in github wikis
 - [Github Gist](https://gist.github.com/) : Share code snippet and/or single file scripts
 - [Ngrok](https://ngrok.com/) : Web publish and share your local environment like a boss
 - [Ideone.com](https://ideone.com/) : Share and execute code snippets
 - [Wandbox](https://wandbox.org/) : Share and execute code snippets
-- [Postimages](https://postimages.org/) : Simple image sharing, you can use it to post images in github wikis
-- [Pastebin](https://pastebin.com/) : Share code snippet, JSON packets, XML packets, logs and stuff like these
 - [TinyURL](https://tinyurl.com/app) : Shortening long and boring URLs
 - [We Transfer](https://wetransfer.com/) : Should I really describe it?
 
@@ -57,6 +57,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [git-scm.com](https://git-scm.com/) : Git website
 - [GIT Documentation](https://git-scm.com/doc) : Well written and comprehensive git documentation
 - [Git cheat sheet](https://ohshitgit.com/) : Basic git cheat sheet
+- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) : Comprehensive list of git resources
 - [.gitignore samples](https://www.toptal.com/developers/gitignore) : Useful `.gitignore` sample
 - [Git Branching](https://learngitbranching.js.org/) : Learns the basics of git branching
 - [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578) : Shed some light on the Git terminology
