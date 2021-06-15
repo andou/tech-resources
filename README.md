@@ -15,6 +15,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <li><a href="#git--versioning">GIT & versioning</a></li>
 <li><a href="#markdown-heart">Markdown</a></li>
 <li><a href="#php">PHP</a></li>
+<li><a href="#frameworks">Frameworks</a></li>
+<li><a href="#devops">Devops</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
 <li><a href="#disposable-services">Disposable Services</a></li>
 <li><a href="#credits">Credits</a></li>
@@ -105,13 +107,34 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-
-
 ## PHP
 - [PHP.net](https://www.php.net/) : Good ol' PHP home page
 - [PHP Manual](https://www.php.net/manual/en/) : Generic PHP manual
 - [PHP Tester](http://phptester.net/) : Test your PHP code online
 - [PHP Sandbox](https://sandbox.onlinephpfunctions.com/) : Another PHP online testing tool
+- [Awesome PHP](https://github.com/ziadoz/awesome-php#readme) : Comprehensive list of PHP resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Frameworks
+- [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) : Comprehensive list of Magento 2 resources
+- [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) : Comprehensive list of Symfony resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+## Devops
+- [Docker](https://www.docker.com/) : Famous set of PaaS products using OS-level virtualization to deliver software in containers
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker#readme) : Comprehensive list of Symfony resources
+- [Mutagen.io](https://mutagen.io/) : High-performance real-time file synchronization tool
+- [Apache](https://www.apache.org/) : The beloved web server
+- [Apache Documentation](https://httpd.apache.org/docs/) : Docs for Apache
+- [Nginx](https://www.nginx.com/) : Another beloved web server
+- [Nginx Resources](https://github.com/fcambus/nginx-resources#readme) : Comprehensive list of Nginx resources
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
