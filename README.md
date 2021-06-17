@@ -17,6 +17,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <li><a href="#frameworks">Frameworks</a></li>
 <li><a href="#devops">Devops</a></li>
 <li><a href="#bash-and-shell">Bash and Shell</a></li>
+<li><a href="#smart-shell">Smart Shell</a></li>
 <li><a href="#disposable-services">Disposable Services</a></li>
 <li><a href="#news">News</a></li>
 <li><a href="#magazines">Magazines</a></li>
@@ -125,8 +126,20 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Vim Modes Transition Diagram](https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg) : Did you ever got stuck in vi(m)? Never again!
 - [Crontab Guru](https://crontab.guru/) : An online editor for cron schedule expressions
 - [Chmod Calculator](https://chmod-calculator.com/) : An awesome Chmod Calculator to convert Linux file permissions between different formats
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+## Smart Shell
+- [Modern Unix tools](https://github.com/ibraheemdev/modern-unix) : A collection of modern alternatives to common Unix commands
+- [exa](https://github.com/ogham/exa) : An `ls` alternative 
+  - consider using it with `alias ll='exa -lTar -s=changed --level=1'` and `alias ll2='exa -lTar -s=changed --level=2'`
+- [bat](https://github.com/sharkdp/bat) : A `cat` clone
+  - consider using it with `alias cat='bat'`
 - [Bpytop](https://github.com/aristocratos/bpytop) : A good looking alternative to <code>top</code>/<code>htop</code> famous commands
-- [Modern Unix tools](https://github.com/ibraheemdev/modern-unix) : A collection of modern alternatives to common Unix commands; take a look at 
+ 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
