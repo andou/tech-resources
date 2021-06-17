@@ -138,6 +138,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - consider using it with `alias ll='exa -lTar -s=changed --level=1'` and `alias ll2='exa -lTar -s=changed --level=2'`
 - [bat](https://github.com/sharkdp/bat) : A `cat` clone
   - consider using it with `alias cat='bat'`
+- [procs](https://github.com/dalance/procs) : A replacement for `ps`
+  - consider using it with `alias ps='procs'`
 - [Bpytop](https://github.com/aristocratos/bpytop) : A good looking alternative to <code>top</code>/<code>htop</code> famous commands
  
 
