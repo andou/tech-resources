@@ -134,6 +134,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ## Smart Shell
 - [Modern Unix tools](https://github.com/ibraheemdev/modern-unix) : A collection of modern alternatives to common Unix commands
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) : Curated list of terminal frameworks, plugins & resources
+- [Awesome Cli Apps](https://github.com/agarrharr/awesome-cli-apps) : A curated list of command line apps
 - [exa](https://github.com/ogham/exa) : An `ls` alternative 
   - consider using it with `alias ll='exa -lTar -s=changed --level=1'` and `alias ll2='exa -lTar -s=changed --level=2'`
 - [bat](https://github.com/sharkdp/bat) : A `cat` clone
@@ -142,8 +144,6 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - consider using it with `alias ps='procs'`
 - [Bpytop](https://github.com/aristocratos/bpytop) : Linux/OSX/FreeBSD resource monitor
 - [bmon](https://github.com/tgraf/bmon) : Real-time network bandwidth monitor and rate estimator with human-friendly visual output
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) : Curated list of terminal frameworks, plugins & resources
-- [Awesome Cli Apps](https://github.com/agarrharr/awesome-cli-apps) : A curated list of command line apps
  
 
 <div align="right">
