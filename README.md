@@ -136,6 +136,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [homebrew](https://brew.sh/) : the missing package manager for macOS
 - [iTerm2](https://iterm2.com/) : Probably the best terminal emulator for macOS
 - [Hyper](https://hyper.is/) : A good terminal alternative built on web technologies
+- [moreutils](https://joeyh.name/code/moreutils/) : A collection of the unix tools that nobody thought to write long ago when unix was young; installation under mac and deep explain [here](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/)
 - [Modern Unix tools](https://github.com/ibraheemdev/modern-unix) : A collection of modern alternatives to common Unix commands
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) : Curated list of terminal frameworks, plugins & resources
 - [Awesome Cli Apps](https://github.com/agarrharr/awesome-cli-apps) : A curated list of command line apps
