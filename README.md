@@ -18,6 +18,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - <a href="#smart-shell">Smart Shell</a>
 - **VCS**
   - <a href="#git--versioning">GIT & versioning</a>
+  - <a href="#branching-models">Branching models</a>
 - **Backend**
   - <a href="#php">PHP</a></li>
   - <a href="#frameworks">Frameworks</a>
@@ -124,6 +125,15 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578) : Shed some light on the Git terminology
 - Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) / [#3](https://github.com/kyechan99/capsule-render) : Do you want to put some glitter on you?
 - [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Branching models
+- [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) : Probably the most famous branching model
+- [GitHub Flow](https://guides.github.com/introduction/flow/) : My favourite branching model, good for CI/CD
+- [Trunk Based Development](https://trunkbaseddevelopment.com/) : A skinny model good for initial project phases
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
