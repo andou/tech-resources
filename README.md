@@ -8,24 +8,32 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 
 ## Index
-<ul>
-<li><a href="#checking-websites">Checking websites</a></li>
-<li><a href="#sharing-stuff">Sharing Stuff</a></li>
-<li><a href="#git--versioning">GIT & versioning</a></li>
-<li><a href="#markdown-heart">Markdown</a></li>
-<li><a href="#php">PHP</a></li>
-<li><a href="#frameworks">Frameworks</a></li>
-<li><a href="#devops">Devops</a></li>
-<li><a href="#bash-and-shell">Bash and Shell</a></li>
-<li><a href="#smart-shell">Smart Shell</a></li>
-<li><a href="#disposable-services">Disposable Services</a></li>
-<li><a href="#news">News</a></li>
-<li><a href="#magazines">Magazines</a></li>
-<li><a href="#generic-silver-bullets">Generic silver bullets</a></li>
-<li><a href="#credits">Credits</a></li>
+ 
+- **Online tools**
+  - <a href="#checking-websites">Checking websites</a>
+  - <a href="#sharing-stuff">Sharing Stuff</a>
+  - <a href="#disposable-services">Disposable Services</a>
+- **Terminal**
+  - <a href="#bash-and-shell">Bash and Shell</a>
+  - <a href="#smart-shell">Smart Shell</a>
+- **VCS**
+  - <a href="#git--versioning">GIT & versioning</a>
+- **Backend**
+  - <a href="#php">PHP</a></li>
+  - <a href="#frameworks">Frameworks</a>
+  - <a href="#devops">Devops</a>
+- **Miscellaneous**
+  - <a href="#markdown-heart">Markdown</a> 
+  - <a href="#generic-silver-bullets">Generic silver bullets</a> 
+- **Keep yourself up-to-date**
+  - <a href="#news">News</a>
+  - <a href="#magazines">Magazines</a>
+- <a href="#credits">Credits</a>
 </ul>
 
-## Checking websites
+## Online tools
+
+### Checking websites
 - [Solid Tools for Developers](https://soliddevtools.com/) : Generic debugging tools ([dig](https://soliddevtools.com/domain-tools/dig-lookup), [whois](https://soliddevtools.com/domain-tools/domain-whois-lookup), [ping](https://soliddevtools.com/network-tools/ping-server-checker), [traceroute](https://soliddevtools.com/network-tools/trace-route-network-trace), etc.)
 - [Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/) : Well known tool to evaluate your website performances
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) : Well known tool to evaluate your website performances
@@ -42,7 +50,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Sharing Stuff
+### Sharing Stuff
 - [Pastebin](https://pastebin.com/) : Share code snippet, JSON packets, XML packets, logs and stuff like these
 - [Postimages](https://postimages.org/) : Simple image sharing, you can use it to post images in github wikis
 - [Github Gist](https://gist.github.com/) : Share code snippet and/or single file scripts
@@ -56,67 +64,17 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## GIT & versioning
-- [git-scm.com](https://git-scm.com/) : Git website
-- [GIT Documentation](https://git-scm.com/doc) : Well written and comprehensive git documentation
-- [Git cheat sheet](https://ohshitgit.com/) : Basic git cheat sheet
-- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) : Comprehensive list of git resources
-- [.gitignore samples](https://www.toptal.com/developers/gitignore) : Useful `.gitignore` sample
-- [Git Branching](https://learngitbranching.js.org/) : Learns the basics of git branching
-- [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578) : Shed some light on the Git terminology
-- Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) / [#3](https://github.com/kyechan99/capsule-render) : Do you want to put some glitter on you?
-- [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
+### Disposable Services
+- [YOPmail](https://yopmail.com/): A disposable mail services
+- [Guerrilla Mail](https://www.guerrillamail.com/): Another disposable mail services
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Markdown (:heart:)
-- [Markdown Guide](https://www.markdownguide.org/) : A guide to the beloved Markdown language
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) : A quick Markdown cheat sheet
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) : Advanced Markdown
-- [markdowntopdf](https://www.markdowntopdf.com/) : Free and reliable converter from markdown files to PDF
-- [MacDown](https://macdown.uranusjr.com/) : Open source Markdown editor for macOS
-- [StackEdit](https://stackedit.io/) : In-browser Markdown editor
+## Terminal
 
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## PHP
-- [PHP.net](https://www.php.net/) : Good ol' PHP home page
-- [PHP Manual](https://www.php.net/manual/en/) : Generic PHP manual
-- [PHP Tester](http://phptester.net/) : Test your PHP code online
-- [PHP Sandbox](https://sandbox.onlinephpfunctions.com/) : Another PHP online testing tool
-- [Awesome PHP](https://github.com/ziadoz/awesome-php#readme) : Comprehensive list of PHP resources
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Frameworks
-- [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) : Comprehensive list of Magento 2 resources
-- [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) : Comprehensive list of Symfony resources
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-
-## Devops
-- [Docker](https://www.docker.com/) : Famous set of PaaS products using OS-level virtualization to deliver software in containers
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker#readme) : Comprehensive list of Symfony resources
-- [Mutagen.io](https://mutagen.io/) : High-performance real-time file synchronization tool
-- [Apache](https://www.apache.org/) : The beloved web server
-- [Apache Documentation](https://httpd.apache.org/docs/) : Docs for Apache
-- [Nginx](https://www.nginx.com/) : Another beloved web server
-- [Nginx Resources](https://github.com/fcambus/nginx-resources#readme) : Comprehensive list of Nginx resources
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Bash and Shell
+### Bash and Shell
 - [ExplainShell](https://explainshell.com/) : Quick and handy command line reference
 - [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) : Exhaustive bash reference
 - [The Bash Academy](https://guide.bash.academy/) : A bash guide
@@ -132,7 +90,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 
-## Smart Shell
+### Smart Shell
 - [homebrew](https://brew.sh/) : the missing package manager for macOS
 - [iTerm2](https://iterm2.com/) : Probably the best terminal emulator for macOS
 - [Hyper](https://hyper.is/) : A good terminal alternative built on web technologies
@@ -148,22 +106,92 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - consider using it with `alias ps='procs'`
 - [Bpytop](https://github.com/aristocratos/bpytop) : Linux/OSX/FreeBSD resource monitor
 - [bmon](https://github.com/tgraf/bmon) : Real-time network bandwidth monitor and rate estimator with human-friendly visual output
- 
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-## Disposable Services
-- [YOPmail](https://yopmail.com/): A disposable mail services
-- [Guerrilla Mail](https://www.guerrillamail.com/): Another disposable mail services
+## VCS
+
+### GIT & versioning
+- [git-scm.com](https://git-scm.com/) : Git website
+- [GIT Documentation](https://git-scm.com/doc) : Well written and comprehensive git documentation
+- [Git cheat sheet](https://ohshitgit.com/) : Basic git cheat sheet
+- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) : Comprehensive list of git resources
+- [.gitignore samples](https://www.toptal.com/developers/gitignore) : Useful `.gitignore` sample
+- [Git Branching](https://learngitbranching.js.org/) : Learns the basics of git branching
+- [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578) : Shed some light on the Git terminology
+- Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) / [#3](https://github.com/kyechan99/capsule-render) : Do you want to put some glitter on you?
+- [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Backend
+
+### PHP
+- [PHP.net](https://www.php.net/) : Good ol' PHP home page
+- [PHP Manual](https://www.php.net/manual/en/) : Generic PHP manual
+- [PHP Tester](http://phptester.net/) : Test your PHP code online
+- [PHP Sandbox](https://sandbox.onlinephpfunctions.com/) : Another PHP online testing tool
+- [Awesome PHP](https://github.com/ziadoz/awesome-php#readme) : Comprehensive list of PHP resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Frameworks
+- [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) : Comprehensive list of Magento 2 resources
+- [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) : Comprehensive list of Symfony resources
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 
-## News
+### Devops
+- [Docker](https://www.docker.com/) : Famous set of PaaS products using OS-level virtualization to deliver software in containers
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker#readme) : Comprehensive list of Symfony resources
+- [Mutagen.io](https://mutagen.io/) : High-performance real-time file synchronization tool
+- [Apache](https://www.apache.org/) : The beloved web server
+- [Apache Documentation](https://httpd.apache.org/docs/) : Docs for Apache
+- [Nginx](https://www.nginx.com/) : Another beloved web server
+- [Nginx Resources](https://github.com/fcambus/nginx-resources#readme) : Comprehensive list of Nginx resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+## Miscellaneous
+
+### Markdown (:heart:)
+- [Markdown Guide](https://www.markdownguide.org/) : A guide to the beloved Markdown language
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) : A quick Markdown cheat sheet
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) : Advanced Markdown
+- [markdowntopdf](https://www.markdowntopdf.com/) : Free and reliable converter from markdown files to PDF
+- [MacDown](https://macdown.uranusjr.com/) : Open source Markdown editor for macOS
+- [StackEdit](https://stackedit.io/) : In-browser Markdown editor
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Generic silver bullets
+- [Google](https://www.google.com) : No need to add anything
+- [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
+- [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+## Keep yourself up-to-date
+
+### News
 - [Hacker News](https://news.ycombinator.com) : Possibly the best technology-focused community
 - [Lobsters](https://lobste.rs) : Another valid technology-focused community.
 - [The DEV Community](https://dev.to) : A good place where to share ideas and helps.
@@ -175,18 +203,9 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 
-## Magazines
+### Magazines
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-
-<div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-## Generic silver bullets
-- [Google](https://www.google.com) : No need to add anything
-- [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
-- [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
