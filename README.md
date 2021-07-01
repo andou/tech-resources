@@ -23,6 +23,9 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - <a href="#php">PHP</a></li>
   - <a href="#frameworks">Frameworks</a>
   - <a href="#devops">Devops</a>
+- **Frontend**
+  - <a href="#css">CSS</a></li>
+  - <a href="#javascript">JavaScript</a>
 - **Miscellaneous**
   - <a href="#markdown-heart">Markdown</a> 
   - <a href="#generic-silver-bullets">Generic silver bullets</a> 
@@ -174,6 +177,21 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+## Frontend
+
+### CSS
+- [Awesome CSS](https://github.com/awesome-css-group/awesome-css#readme) : Comprehensive list of CSS resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### JavaScript
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme) : Comprehensive list of JavaScript resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 ## Miscellaneous
 
