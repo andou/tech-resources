@@ -137,6 +137,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) : Probably the most famous branching model
 - [GitHub Flow](https://guides.github.com/introduction/flow/) : My favourite branching model, good for CI/CD
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) : A skinny model good for initial project phases
+- [YAGBW](https://dev.to/andou/yagbw-yet-another-git-branching-workflow-hf4) : Yet Another Git Branching Workflow, the git flow we use in our agency
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
