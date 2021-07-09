@@ -20,11 +20,11 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - <a href="#git--versioning">GIT & versioning</a>
   - <a href="#branching-models">Branching models</a>
 - **Backend**
-  - <a href="#php">PHP</a></li>
+  - <a href="#php">PHP</a>
   - <a href="#frameworks">Frameworks</a>
   - <a href="#devops">Devops</a>
 - **Frontend**
-  - <a href="#css">CSS</a></li>
+  - <a href="#css">CSS</a>
   - <a href="#javascript">JavaScript</a>
 - **Miscellaneous**
   - <a href="#markdown-heart">Markdown</a> 
