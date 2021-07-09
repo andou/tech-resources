@@ -4,7 +4,7 @@ Below is a curated list of useful tech resources for web developers :neckbeard:.
 
 Enjoy it :smile: and give it a :star:!
 
-Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
+Please consider [contributing](CONTRIBUTING.md) to the list with a pull request. You can also check the brand new [Github Pages Version](https://andou.github.io/tech-resources)
 
 
 ## Index
