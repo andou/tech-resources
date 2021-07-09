@@ -224,6 +224,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 ### Fancy stuff
 - [Shields.io](https://shields.io/) : Quality metadata badges for open source projects
 - [Boring Avatars](https://boringavatars.com/) : A nice library to create SVG random avatars
+- [Every Second](https://everysecond.io/) : Visualize all the amazing things happening every second around the world
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
