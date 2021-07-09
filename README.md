@@ -29,6 +29,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - **Miscellaneous**
   - <a href="#markdown-heart">Markdown</a> 
   - <a href="#generic-silver-bullets">Generic silver bullets</a> 
+  - <a href="#fancy-stuff">Fancy stuff</a> 
 - **Keep yourself up-to-date**
   - <a href="#news">News</a>
   - <a href="#magazines">Magazines</a>
@@ -219,6 +220,14 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+
+### Fancy stuff
+- [Shields.io](https://shields.io/) : Quality metadata badges for open source projects
+- [Boring Avatars](https://boringavatars.com/) : A nice library to create SVG random avatars
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 ## Keep yourself up-to-date
 
