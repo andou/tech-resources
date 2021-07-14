@@ -215,6 +215,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Stack Overflow](https://stackoverflow.com) : I own to it half of my salary
 - [Code House](https://github.com/saviomartin/codehouse) : A storehouse of over 300 curated cheatsheets, there's also an interesting [blog post](https://savio.xyz/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets) about it
 - [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
+- [Obsidian](https://obsidian.md/) : knowledge base tool on top of a local folder of plain text Markdown files
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
