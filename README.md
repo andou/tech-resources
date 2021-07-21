@@ -231,6 +231,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Every Second](https://everysecond.io/) : Visualize all the amazing things happening every second around the world
 - [Ray.so](https://ray.so/) : Create beautiful images of your code
 - [Readme.so](https://readme.so/en) : Easily create the readme for your project
+- [Chart.xkcd](https://github.com/timqian/chart.xkcd#readme) : A chart library that plots “sketchy”, “cartoony” or “hand-drawn” styled charts
+- [98.css](https://jdan.github.io/98.css/) : A design system for building faithful recreations of old UIs
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
