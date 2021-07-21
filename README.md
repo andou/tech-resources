@@ -33,6 +33,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - **Keep yourself up-to-date**
   - <a href="#news">News</a>
   - <a href="#magazines">Magazines</a>
+  - <a href="#recommended-reading">Recommended Reading</a>
 - <a href="#credits">Credits</a>
 </ul>
 
@@ -159,6 +160,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 ### Frameworks
+- [Tech Empower's Web Frameworks Benchmarks](https://www.techempower.com/benchmarks/) : Performance and scalability of various languages/web frameworks/databases
 - [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) : Comprehensive list of Magento 2 resources
 - [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) : Comprehensive list of Symfony resources
 
@@ -224,8 +226,11 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### Fancy stuff
 - [Shields.io](https://shields.io/) : Quality metadata badges for open source projects
+- [ASCII Table Generator](https://ozh.github.io/ascii-tables/) : Quickly format ASCII table. Great for source code comments and Github Markdown
 - [Boring Avatars](https://boringavatars.com/) : A nice library to create SVG random avatars
 - [Every Second](https://everysecond.io/) : Visualize all the amazing things happening every second around the world
+- [Ray.so](https://ray.so/) : Create beautiful images of your code
+- [Readme.so](https://readme.so/en) : Easily create the readme for your project
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -252,6 +257,17 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+### Recommended Reading
+- [MVC Explained Through Ordering Drinks At The Bar](https://blog.codeanalogies.com/2016/05/02/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar/) : A funny analogy for describing the famous MVC model.
+- [I f-ing hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/) : An interesting rant about research, bugs and science
+- [Why I'm losing faith in UX](https://creativegood.com/blog/21/losing-faith-in-ux.html) : On the transition from UX as user experience to UX as user exploitation
+- [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji) : The level of crazyness in this project is too damn high
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 
 ## Credits
 
