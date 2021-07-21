@@ -131,6 +131,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Git Branching](https://learngitbranching.js.org/) : Learns the basics of git branching
 - [Confusing Terms in the Git Terminology](https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578) : Shed some light on the Git terminology
 - Fancy profiles in Github [#1](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)/[#2](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) / [#3](https://github.com/kyechan99/capsule-render) : Do you want to put some glitter on you?
+- [Astral](https://app.astralapp.com/) : Gives your Github stars a purpose through tags and organization
 - [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
 
 <div align="right">
