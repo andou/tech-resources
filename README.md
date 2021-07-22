@@ -209,6 +209,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [markdowntopdf](https://www.markdowntopdf.com/) : Free and reliable converter from markdown files to PDF
 - [MacDown](https://macdown.uranusjr.com/) : Open source Markdown editor for macOS
 - [StackEdit](https://stackedit.io/) : In-browser Markdown editor
+- [Mermaid](https://mermaid-js.github.io/mermaid/) : Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
