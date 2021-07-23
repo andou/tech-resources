@@ -271,6 +271,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [I f-ing hate Science](https://buttondown.email/hillelwayne/archive/i-ing-hate-science/) : An interesting rant about research, bugs and science
 - [Why I'm losing faith in UX](https://creativegood.com/blog/21/losing-faith-in-ux.html) : On the transition from UX as user experience to UX as user exploitation
 - [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji) : The level of crazyness in this project is too damn high
+- [Has UML Died Without Anyone Noticing?](https://garba.org/posts/2021/uml/) : On the modern software engineering practices, good point
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
