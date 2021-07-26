@@ -239,6 +239,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Chart.xkcd](https://github.com/timqian/chart.xkcd#readme) : A chart library that plots “sketchy”, “cartoony” or “hand-drawn” styled charts
 - [98.css](https://jdan.github.io/98.css/) : A design system for building faithful recreations of old UIs
 - [Image Charts](https://www.image-charts.com/) : Public APIs to generate images
+- [Blockly](https://github.com/google/blockly) : A visual code editor
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
