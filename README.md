@@ -18,7 +18,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - <a href="#smart-shell">Smart Shell</a>
 - **VCS**
   - <a href="#git--versioning">GIT & versioning</a>
-  - <a href="#branching-models">Branching models</a>
+  - <a href="#vcs-history-management">VCS History Management</a>
+  - <a href="#git-branching-models">Branching models</a>
 - **Backend**
   - <a href="#php">PHP</a>
   - <a href="#frameworks">Frameworks</a>
@@ -126,6 +127,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [git-scm.com](https://git-scm.com/) : Git website
 - [GIT Documentation](https://git-scm.com/doc) : Well written and comprehensive git documentation
 - [Git cheat sheet](https://ohshitgit.com/) : Basic git cheat sheet
+- [Oh Shit, Git!?!](https://ohshitgit.com/) : A website with a memorable domain that also provides some information for how to perform self-rescue after a lot of git accidents
 - [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) : Comprehensive list of git resources
 - [.gitignore samples](https://www.toptal.com/developers/gitignore) : Useful `.gitignore` sample
 - [Git Branching](https://learngitbranching.js.org/) : Learns the basics of git branching
@@ -138,7 +140,18 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-### Branching models
+### VCS History Management
+- [Cleaning Up Git History](https://blog.sulami.xyz/posts/cleaning-up-git-history/) : A good reading about the importance of the git history as a tool
+- [On commit messages](https://who-t.blogspot.com/2009/12/on-commit-messages.html) : Some useful suggestions on how to write commits
+- [Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) : Hints directly from the git documentation book
+- [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages) : OTP commit guidelines
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+### Git Branching models
 - [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/) : Probably the most famous branching model
 - [GitHub Flow](https://guides.github.com/introduction/flow/) : My favourite branching model, good for CI/CD
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) : A skinny model good for initial project phases
