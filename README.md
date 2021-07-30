@@ -30,6 +30,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - **Debugging**
   - <a href="#http-debugging">HTTP Debugging</a>
   - <a href="#http-rest-clients">HTTP REST Clients</a>
+  - <a href="#php-debugging-tools">PHP Debugging Tools</a>
 - **Miscellaneous**
   - <a href="#markdown-heart">Markdown</a> 
   - <a href="#generic-silver-bullets">Generic silver bullets</a> 
@@ -223,6 +224,10 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Charles Web Debugging Proxy](https://www.charlesproxy.com/) : HTTP proxy / HTTP monitor / Reverse Proxy, free trial available
 - [mitmproxy](https://mitmproxy.org/) : free and open source interactive HTTPS proxy
 
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ### HTTP REST Clients
 - [Postman](https://www.postman.com/) : the father of all HTTP REST clients
 - [Insomnia](https://insomnia.rest/) : an HTTP REST client with a strong focus on API building
@@ -231,6 +236,12 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+### PHP Debugging Tools
+- [Xdebug](https://xdebug.org/) : the father of all PHP debugging extensions
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
 
 ## Miscellaneous
 
