@@ -219,6 +219,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### HTTP Debugging
 - [HTTP Toolkit](https://httptoolkit.tech/) : open-source tool for debugging, testing and building with HTTP(s), free plan available
+- [Charles Web Debugging Proxy](https://www.charlesproxy.com/) : HTTP proxy / HTTP monitor / Reverse Proxy, free trial available
 - [Postman](https://www.postman.com/) : the father of all HTTP REST clients
 - [Insomnia](https://insomnia.rest/) : an HTTP REST client with a strong focus on API building
 
