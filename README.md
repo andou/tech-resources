@@ -303,6 +303,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 
 ### Magazines
+- [The Overflow](https://stackoverflow.blog/) : Essays, opinions, and advice on the act of computer programming from Stack Overflow
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 
