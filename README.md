@@ -27,6 +27,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - **Frontend**
   - <a href="#css">CSS</a>
   - <a href="#javascript">JavaScript</a>
+- **Debugging**
+  - <a href="#http-debugging">HTTP Debugging</a>
 - **Miscellaneous**
   - <a href="#markdown-heart">Markdown</a> 
   - <a href="#generic-silver-bullets">Generic silver bullets</a> 
@@ -212,6 +214,18 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+## Debugging
+
+### HTTP Debugging
+- [HTTP Toolkit](https://httptoolkit.tech/) : open-source tool for debugging, testing and building with HTTP(s), free plan available
+- [Postman](https://www.postman.com/) : the father of all HTTP REST clients
+- [Insomnia](https://insomnia.rest/) : an HTTP REST client with a strong focus on API building
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 
 ## Miscellaneous
 
