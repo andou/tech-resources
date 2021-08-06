@@ -20,6 +20,9 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - <a href="#git--versioning">GIT & versioning</a>
   - <a href="#vcs-history-management">VCS History Management</a>
   - <a href="#git-branching-models">Branching models</a>
+- **Software Architecture**
+  - <a href="#software-architecture-resources">Software Architecture resources</a>
+  - <a href="#modeling-tools">Modeling Tools</a>
 - **Backend**
   - <a href="#php">PHP</a>
   - <a href="#frameworks">Frameworks</a>
@@ -160,6 +163,22 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [GitHub Flow](https://guides.github.com/introduction/flow/) : My favourite branching model, good for CI/CD
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) : A skinny model good for initial project phases
 - [YAGBW](https://dev.to/andou/yagbw-yet-another-git-branching-workflow-hf4) : Yet Another Git Branching Workflow, the git flow we use in our agency
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+## Software Architecture
+
+### Software Architecture resources
+- [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) : A curated list of articles and resources to learn and practice about software architecture
+- [The twelve-factor app](https://12factor.net/) : A methodology for building software-as-a-service apps written in any programming language, and which use any combination of backing services
+
+### Modeling Tools
+- [Diagrams.net](https://www.diagrams.net/) : The most famous browser-based end-user diagramming software
+- [CloudSkew](https://www.cloudskew.com/) : Free architecture design tools
+- [Systemizer](https://honzaap.github.io/Systemizer/) : Alternative system design tool to create and simulate large scale distributed systems
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
