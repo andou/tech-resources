@@ -175,6 +175,10 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) : A curated list of articles and resources to learn and practice about software architecture
 - [The twelve-factor app](https://12factor.net/) : A methodology for building software-as-a-service apps written in any programming language, and which use any combination of backing services
 
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ### Modeling Tools
 - [Diagrams.net](https://www.diagrams.net/) : The most famous browser-based end-user diagramming software
 - [CloudSkew](https://www.cloudskew.com/) : Free architecture design tools
