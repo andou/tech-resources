@@ -75,6 +75,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [We Transfer](https://wetransfer.com/) : Should I really describe it?
 - [transfer.sh](https://transfer.sh/) : Easy file sharing from the command line
 - [witeboard](https://witeboard.com/) : A real-time shared whiteboard, no registration needed
+- [Spniptt OTS](https://www.sniptt.com/ots/) : Share end-to-end encrypted secrets with others via a one-time URL
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
