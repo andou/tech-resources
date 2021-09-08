@@ -123,6 +123,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   - consider using it with `alias ps='procs'`
 - [Bpytop](https://github.com/aristocratos/bpytop) : Linux/OSX/FreeBSD resource monitor
 - [bmon](https://github.com/tgraf/bmon) : Real-time network bandwidth monitor and rate estimator with human-friendly visual output
+- [htmlq](https://github.com/mgdm/htmlq) : Like jq, but for HTML
 
 
 <div align="right">
