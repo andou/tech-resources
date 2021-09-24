@@ -30,6 +30,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - **Frontend**
   - <a href="#css">CSS</a>
   - <a href="#javascript">JavaScript</a>
+  - <a href="#animation-libraries">Animation Libraries</a>
 - **Debugging**
   - <a href="#http-debugging">HTTP Debugging</a>
   - <a href="#http-rest-clients">HTTP REST Clients</a>
@@ -237,6 +238,13 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### JavaScript
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme) : Comprehensive list of JavaScript resources
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Animation Libraries
+- [Motion One](https://motion.dev/) : An animation library built on the Web Animations API
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
