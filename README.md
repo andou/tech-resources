@@ -244,6 +244,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 ### Animation Libraries
+- [anime.js](https://animejs.com/) : A lightweight JavaScript animation library
 - [Motion One](https://motion.dev/) : An animation library built on the Web Animations API
 
 <div align="right">
