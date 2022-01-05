@@ -350,6 +350,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 </div>
 
 ### Recommended Reading
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) : A collection of laws that people discuss when talking about development
 - [Big Ball of Mud](http://www.laputan.org/mud/) : A dissertation on the _big ball of mud_ software architecture approach
 - [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49) : On why driving engineers to create detailed estimates and then pressuring them to complete the software according to those estimates is a value destroying mistake
 - [MVC Explained Through Ordering Drinks At The Bar](https://blog.codeanalogies.com/2016/05/02/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar/) : A funny analogy for describing the famous MVC model.
