@@ -158,6 +158,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [On commit messages](https://who-t.blogspot.com/2009/12/on-commit-messages.html) : Some useful suggestions on how to write commits
 - [Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) : Hints directly from the git documentation book
 - [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages) : OTP commit guidelines
+- [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
