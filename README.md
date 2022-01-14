@@ -323,6 +323,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Image Charts](https://www.image-charts.com/) : Public APIs to generate images
 - [Blockly](https://github.com/google/blockly) : A visual code editor
 - [v86](https://copy.sh/v86/) : emulating an x86-compatible CPU and hardware in a browser
+- [wttr.in](https://github.com/chubin/wttr.in) : a console-oriented weather forecast service that supports various information representation methods
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
