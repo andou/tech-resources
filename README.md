@@ -199,9 +199,12 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### PHP
 - [PHP.net](https://www.php.net/) : Good ol' PHP home page
+- [PHP: The right way](https://phptherightway.com/) : An easy-to-read, quick reference for PHP best practices
 - [PHP Manual](https://www.php.net/manual/en/) : Generic PHP manual
+- [PHP League](https://thephpleague.com/) : A group of developers who have banded together to build solid, well tested PHP packages using modern coding standards
 - [PHP Tester](http://phptester.net/) : Test your PHP code online
 - [PHP Sandbox](https://sandbox.onlinephpfunctions.com/) : Another PHP online testing tool
+- [PHP Fig](https://www.php-fig.org/) : PHP Framework Interop Group
 - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme) : Comprehensive list of PHP resources
 
 <div align="right">
