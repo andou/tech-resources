@@ -96,6 +96,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### Bash and Shell
 - [ExplainShell](https://explainshell.com/) : Quick and handy command line reference
+- [Linux SysOps Handbook](https://abarrak.gitbook.io/linux-sysops-handbook/) : A study notes book for the common knowledge and tasks of a Linux system admin.
 - [GNU's Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) : Exhaustive bash reference
 - [The Bash Academy](https://guide.bash.academy/) : A bash guide
 - [Learn Shell Programming](https://www.learnshell.org/) : Another bash guide
