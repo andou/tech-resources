@@ -163,6 +163,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) : Hints directly from the git documentation book
 - [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages) : OTP commit guidelines
 - [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/): Teaches developers how to write better commit messages with improved grammar, content, etc.
+- [secrets](https://github.com/sirwart/secrets) : A command-line tool to prevent committing secret keys into your source code
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
