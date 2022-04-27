@@ -131,6 +131,8 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Bpytop](https://github.com/aristocratos/bpytop) : Linux/OSX/FreeBSD resource monitor
 - [bmon](https://github.com/tgraf/bmon) : Real-time network bandwidth monitor and rate estimator with human-friendly visual output
 - [htmlq](https://github.com/mgdm/htmlq) : Like jq, but for HTML
+- [magic-trace](https://github.com/janestreet/magic-trace) : A tool that collects and displays high-resolution traces of what a process is doing
+- [atuin](https://github.com/ellie/atuin) : A tool that replaces your existing shell history with a SQLite database
 
 
 <div align="right">
