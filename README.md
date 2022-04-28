@@ -323,6 +323,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### Fancy stuff
 - [Shields.io](https://shields.io/) : Quality metadata badges for open source projects
+- [WOPR](https://github.com/yaronn/wopr) : A simple markup language for creating rich terminal reports, presentations and infographics.
 - [ASCII Table Generator](https://ozh.github.io/ascii-tables/) : Quickly format ASCII table. Great for source code comments and Github Markdown
 - [Boring Avatars](https://boringavatars.com/) : A nice library to create SVG random avatars
 - [Every Second](https://everysecond.io/) : Visualize all the amazing things happening every second around the world
@@ -334,6 +335,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Blockly](https://github.com/google/blockly) : A visual code editor
 - [v86](https://copy.sh/v86/) : emulating an x86-compatible CPU and hardware in a browser
 - [wttr.in](https://github.com/chubin/wttr.in) : a console-oriented weather forecast service that supports various information representation methods
+- [Mapscii](https://github.com/rastapasta/mapscii) : a terminal Map Viewer
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
