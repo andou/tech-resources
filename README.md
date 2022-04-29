@@ -116,6 +116,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [homebrew](https://brew.sh/) : the missing package manager for macOS
 - [iTerm2](https://iterm2.com/) : Probably the best terminal emulator for macOS
 - [kitty](https://sw.kovidgoyal.net/kitty/) : A valid iTerm2 competitor; check my personal [configuration](https://github.com/andou/kitty-conf) for it
+- [Warp](https://www.warp.dev/) : A new take on the terminal offerings, a Rust implemented terminal
 - [Hyper](https://hyper.is/) : A good terminal alternative built on web technologies
 - [moreutils](https://joeyh.name/code/moreutils/) : A collection of the unix tools that nobody thought to write long ago when unix was young; installation under mac and deep explain [here](https://rentes.github.io/unix/utilities/2015/07/27/moreutils-package/)
 - [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) : a list of newer command line tools
