@@ -214,6 +214,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [PHP Sandbox](https://sandbox.onlinephpfunctions.com/) : Another PHP online testing tool
 - [PHP Fig](https://www.php-fig.org/) : PHP Framework Interop Group
 - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme) : Comprehensive list of PHP resources
+- [Can I PHP?](https://caniphp.com/) : PHP feature support by version - like caniuse.com but for PHP
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
