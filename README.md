@@ -262,6 +262,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 ### Animation Libraries
 - [anime.js](https://animejs.com/) : A lightweight JavaScript animation library
 - [Motion One](https://motion.dev/) : An animation library built on the Web Animations API
+- [LottieFiles](https://lottiefiles.com/) : An online platform a small animation format
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
