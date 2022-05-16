@@ -233,6 +233,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 ### Devops
 - [Docker](https://www.docker.com/) : Famous set of PaaS products using OS-level virtualization to deliver software in containers
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker#readme) : Comprehensive list of Symfony resources
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) : a cheat sheet for Docker and its cli; not so well updated but a good starting point
 - [Mutagen.io](https://mutagen.io/) : High-performance real-time file synchronization tool
 - [Apache](https://www.apache.org/) : The beloved web server
 - [Apache Documentation](https://httpd.apache.org/docs/) : Docs for Apache
@@ -274,6 +275,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [HTTP Toolkit](https://httptoolkit.tech/) : open-source tool for debugging, testing and building with HTTP(s), free plan available
 - [Charles Web Debugging Proxy](https://www.charlesproxy.com/) : HTTP proxy / HTTP monitor / Reverse Proxy, free trial available
 - [mitmproxy](https://mitmproxy.org/) : free and open source interactive HTTPS proxy
+- [JSON Server](https://github.com/typicode/json-server) : a full fake REST API with zero coding
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
