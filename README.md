@@ -161,6 +161,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 
 ### VCS History Management
 - [Tig](https://jonas.github.io/tig/) : an ncurses-based text-mode interface for git
+- [forgit](https://github.com/wfxr/forgit) : A utility tool powered by fzf for using git interactively
 - [Cleaning Up Git History](https://blog.sulami.xyz/posts/cleaning-up-git-history/) : A good reading about the importance of the git history as a tool
 - [On commit messages](https://who-t.blogspot.com/2009/12/on-commit-messages.html) : Some useful suggestions on how to write commits
 - [Contributing to a Project](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project) : Hints directly from the git documentation book
