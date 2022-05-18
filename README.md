@@ -239,6 +239,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Apache Documentation](https://httpd.apache.org/docs/) : Docs for Apache
 - [Nginx](https://www.nginx.com/) : Another beloved web server
 - [Nginx Resources](https://github.com/fcambus/nginx-resources#readme) : Comprehensive list of Nginx resources
+- [GoAccess](https://github.com/allinurl/goaccess) : open source real-time web log analyzer and interactive viewer
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
