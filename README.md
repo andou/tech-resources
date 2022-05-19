@@ -343,6 +343,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [v86](https://copy.sh/v86/) : emulating an x86-compatible CPU and hardware in a browser
 - [wttr.in](https://github.com/chubin/wttr.in) : a console-oriented weather forecast service that supports various information representation methods
 - [Mapscii](https://github.com/rastapasta/mapscii) : a terminal Map Viewer
+- [LiveTerm](https://github.com/cveinnt/liveterm) : Next.js terminal styled website template
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
