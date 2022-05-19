@@ -358,7 +358,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Slashdot](https://slashdot.org/) : If you've read all the previous stuff and your lunch break isn't over.
 - [TLDR Newsletter](https://tldr.tech/) : Probably the best tech newsletter digest out there.
 
-<div align="right" class="Keep+yourself+up-to-date">
+<div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
