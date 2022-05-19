@@ -62,7 +62,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Online JSON Viewer](http://jsonviewer.stack.hu/) : Another valid JSON checker / editor
 - [XML Sitemap Generator - BASH](https://www.plop.at/en/xml-sitemap.html) : A shell script to locally generate XML sitemaps
 
-<div align="right">
+<div align="right" class="endChecking+websites">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
