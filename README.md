@@ -34,7 +34,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - **Debugging**
   - <a href="#http-debugging">HTTP Debugging</a>
   - <a href="#http-rest-clients">HTTP REST Clients</a>
-  - <a href="#php-debugging-tools">PHP Debugging Tools</a>
+  - <a href="#debugging-tools-php">Debugging Tools PHP</a>
 - **Miscellaneous**
   - <a href="#markdown-heart">Markdown</a> 
   - <a href="#generic-silver-bullets">Generic silver bullets</a> 
@@ -291,10 +291,10 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-### PHP Debugging Tools
+### Debugging Tools PHP
 - [Xdebug](https://xdebug.org/) : the father of all PHP debugging extensions
 
-<div align="right" class="PHP+Debugging+Tools">
+<div align="right" class="Debugging+Tools+PHP">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
