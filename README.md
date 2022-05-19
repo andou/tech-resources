@@ -62,7 +62,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Online JSON Viewer](http://jsonviewer.stack.hu/) : Another valid JSON checker / editor
 - [XML Sitemap Generator - BASH](https://www.plop.at/en/xml-sitemap.html) : A shell script to locally generate XML sitemaps
 
-<div align="right" class="endChecking+websites">
+<div align="right" class="Checking+websites">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -81,7 +81,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [witeboard](https://witeboard.com/) : A real-time shared whiteboard, no registration needed
 - [Spniptt OTS](https://www.sniptt.com/ots/) : Share end-to-end encrypted secrets with others via a one-time URL
 
-<div align="right">
+<div align="right" class="Sharing+Stuff">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -89,7 +89,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [YOPmail](https://yopmail.com/): A disposable mail services
 - [Guerrilla Mail](https://www.guerrillamail.com/): Another disposable mail services
 
-<div align="right">
+<div align="right" class="Disposable+Services">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -107,7 +107,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Crontab Guru](https://crontab.guru/) : An online editor for cron schedule expressions
 - [Chmod Calculator](https://chmod-calculator.com/) : An awesome Chmod Calculator to convert Linux file permissions between different formats
 
-<div align="right">
+<div align="right" class="Bash+and+Shell">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -136,7 +136,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [atuin](https://github.com/ellie/atuin) : A tool that replaces your existing shell history with a SQLite database
 
 
-<div align="right">
+<div align="right" class="Smart+Shell">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -155,7 +155,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Astral](https://app.astralapp.com/) : Gives your Github stars a purpose through tags and organization
 - [Snowtrack](https://www.snowtrack.io/): A version control software for graphic designers and 3D artists
 
-<div align="right">
+<div align="right" class="GIT+&+versioning">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -169,7 +169,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/): Teaches developers how to write better commit messages with improved grammar, content, etc.
 - [secrets](https://github.com/sirwart/secrets) : A command-line tool to prevent committing secret keys into your source code
 
-<div align="right">
+<div align="right" class="VCS+History+Management">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -180,7 +180,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) : A skinny model good for initial project phases
 - [YAGBW](https://dev.to/andou/yagbw-yet-another-git-branching-workflow-hf4) : Yet Another Git Branching Workflow, the git flow we use in our agency
 
-<div align="right">
+<div align="right" class="Git+Branching+models">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -191,7 +191,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Awesome Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/) : A curated list of articles and resources to learn and practice about software architecture
 - [The twelve-factor app](https://12factor.net/) : A methodology for building software-as-a-service apps written in any programming language, and which use any combination of backing services
 
-<div align="right">
+<div align="right" class="Software+Architecture">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -200,7 +200,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [CloudSkew](https://www.cloudskew.com/) : Free architecture design tools
 - [Systemizer](https://honzaap.github.io/Systemizer/) : Alternative system design tool to create and simulate large scale distributed systems
 
-<div align="right">
+<div align="right" class="Modeling+Tools">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -217,7 +217,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme) : Comprehensive list of PHP resources
 - [Can I PHP?](https://caniphp.com/) : PHP feature support by version - like caniuse.com but for PHP
 
-<div align="right">
+<div align="right" class="PHP">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -226,7 +226,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Awesome Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) : Comprehensive list of Magento 2 resources
 - [Awesome Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) : Comprehensive list of Symfony resources
 
-<div align="right">
+<div align="right" class="Frameworks">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -242,7 +242,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Nginx Resources](https://github.com/fcambus/nginx-resources#readme) : Comprehensive list of Nginx resources
 - [GoAccess](https://github.com/allinurl/goaccess) : open source real-time web log analyzer and interactive viewer
 
-<div align="right">
+<div align="right" class="Devops">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -251,14 +251,14 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 ### CSS
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css#readme) : Comprehensive list of CSS resources
 
-<div align="right">
+<div align="right" class="CSS">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ### JavaScript
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript#readme) : Comprehensive list of JavaScript resources
 
-<div align="right">
+<div align="right" class="JavaScript">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -267,7 +267,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Motion One](https://motion.dev/) : An animation library built on the Web Animations API
 - [LottieFiles](https://lottiefiles.com/) : An online platform a small animation format
 
-<div align="right">
+<div align="right" class="Animation+Libraries">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -279,7 +279,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [mitmproxy](https://mitmproxy.org/) : free and open source interactive HTTPS proxy
 - [JSON Server](https://github.com/typicode/json-server) : a full fake REST API with zero coding
 
-<div align="right">
+<div align="right" class="HTTP+Debugging">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -287,14 +287,14 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Postman](https://www.postman.com/) : the father of all HTTP REST clients
 - [Insomnia](https://insomnia.rest/) : an HTTP REST client with a strong focus on API building
 
-<div align="right">
+<div align="right" class="HTTP+REST+Clients">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ### PHP Debugging Tools
 - [Xdebug](https://xdebug.org/) : the father of all PHP debugging extensions
 
-<div align="right">
+<div align="right" class="PHP+Debugging+Tools">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -312,7 +312,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Joplin](https://joplinapp.org/) : Open source note-taking app supporting Markdown, Mermaid and export in various formats
 - [Milkdown](https://milkdown.dev/) : A Plugin Based WYSIWYG Markdown Editor Framework
 
-<div align="right">
+<div align="right" class="Markdown+(:heart:)">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -323,7 +323,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Learn X in Y minutes](https://learnxinyminutes.com/) : An extremely optimistic way to learn a new programming language :smile:
 - [Obsidian](https://obsidian.md/) : knowledge base tool on top of a local folder of plain text Markdown files
 
-<div align="right">
+<div align="right" class="Generic+silver+bullets">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -345,7 +345,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Mapscii](https://github.com/rastapasta/mapscii) : a terminal Map Viewer
 - [LiveTerm](https://github.com/cveinnt/liveterm) : Next.js terminal styled website template
 
-<div align="right">
+<div align="right" class="Fancy+stuff">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -358,7 +358,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Slashdot](https://slashdot.org/) : If you've read all the previous stuff and your lunch break isn't over.
 - [TLDR Newsletter](https://tldr.tech/) : Probably the best tech newsletter digest out there.
 
-<div align="right">
+<div align="right" class="Keep+yourself+up-to-date">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -368,7 +368,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [MIT Technology Review](https://www.technologyreview.com/magazine/) : MIT's tech review magazine.
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
 
-<div align="right">
+<div align="right" class="Magazines">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
@@ -383,7 +383,7 @@ Please consider [contributing](CONTRIBUTING.md) to the list with a pull request.
 - [Has UML Died Without Anyone Noticing?](https://garba.org/posts/2021/uml/) : On the modern software engineering practices, good point
 - [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) : An interesting interview with Tarn Adams on his single project game creator and maintainer of Dwarf Fortress
 
-<div align="right">
+<div align="right" class="Recommended+Reading">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
