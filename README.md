@@ -279,6 +279,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [HTTP Toolkit](https://httptoolkit.tech/) : open-source tool for debugging, testing and building with HTTP(s), free plan available
 - [Charles Web Debugging Proxy](https://www.charlesproxy.com/) : HTTP proxy / HTTP monitor / Reverse Proxy, free trial available
 - [mitmproxy](https://mitmproxy.org/) : free and open source interactive HTTPS proxy
+- [HTTPie](https://httpie.io/) : user-friendly command-line HTTP client
 - [JSON Server](https://github.com/typicode/json-server) : a full fake REST API with zero coding
 
 <div align="right" class="HTTP+Debugging">
