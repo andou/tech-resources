@@ -385,6 +385,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji) : The level of crazyness in this project is too damn high
 - [Has UML Died Without Anyone Noticing?](https://garba.org/posts/2021/uml/) : On the modern software engineering practices, good point
 - [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) : An interesting interview with Tarn Adams on his single project game creator and maintainer of Dwarf Fortress
+- [How browsers work](https://taligarsiel.com/Projects/howbrowserswork1.htm?utm_source=tldrnewsletter) : An article that explains how web browsers work behind the scenes.
 
 <div align="right" class="Recommended+Reading">
   <b><a href="#index">↥ Back To Top</a></b>
