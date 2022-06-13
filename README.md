@@ -347,6 +347,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [wttr.in](https://github.com/chubin/wttr.in) : a console-oriented weather forecast service that supports various information representation methods
 - [Mapscii](https://github.com/rastapasta/mapscii) : a terminal Map Viewer
 - [LiveTerm](https://github.com/cveinnt/liveterm) : Next.js terminal styled website template
+- [dns.toys](https://www.dns.toys/) : a DNS server that offers utilities and services that are accessible via the (_dig_) command line
 
 <div align="right" class="Fancy+stuff">
   <b><a href="#index">↥ Back To Top</a></b>
