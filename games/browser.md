@@ -1,6 +1,7 @@
 # Notable browser games
 
 - [Otteretto](https://otteretto.app/classic/)
+- [Six sided streets](https://csklimowski.itch.io/six-sided-streets)
 - [Par🇮🇹le](https://pietroppeter.github.io/wordle-it/)
 - [Wordle](https://www.nytimes.com/games/wordle/index.html)
 - [Spelunky](https://tinysubversions.com/game/spelunky/)
