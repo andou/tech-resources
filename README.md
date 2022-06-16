@@ -48,10 +48,8 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - **Browser games** (c'mon, slack off!) 
   - <a href="#match-x">Match X</a>
   - <a href="#words">Words</a>
-  - <a href="#tiles">Tiles</a>
-  - <a href="#relaxing">Relaxing</a>
-  - <a href="#action">Action</a>
-  - <a href="#strategy">Strategy</a>
+  - <a href="#city-builders--tiles">City builders & Tiles</a>
+  - <a href="#action-strategy">Action & Strategy</a>
   - <a href="#others">Others</a>
 - <a href="#credits">Credits</a>
 </ul>
@@ -403,53 +401,41 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 ## Browser games
 
 ### Match X
-- [Otteretto](https://otteretto.app/classic/)
-- [Gridland](http://gridland.doublespeakgames.com/)
+- [Otteretto](https://otteretto.app/classic/) : An exceptional palindromes match game
+- [Gridland](http://gridland.doublespeakgames.com/) : An interesting twist on the match 3 mechanic with a blend of strategy
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ### Words
-- [Par🇮🇹le](https://pietroppeter.github.io/wordle-it/)
-- [Wordle](https://www.nytimes.com/games/wordle/index.html)
+- [Wordle](https://www.nytimes.com/games/wordle/index.html) : The very famous NY Times word game
+- [Par🇮🇹le](https://pietroppeter.github.io/wordle-it/) : Basically the italian version of Wordle
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-### Tiles
-- [Six sided streets](https://csklimowski.itch.io/six-sided-streets)
+### City builders & Tiles
+- [Six sided streets](https://csklimowski.itch.io/six-sided-streets) : A tile placing city builder, which seems like an ancestor of Dorfromantic
+- [Townscaper](https://oskarstalberg.com/Townscaper/) : More like a toy than a game, a no-pressure city builder
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
-### Relaxing
-- [Townscaper](https://oskarstalberg.com/Townscaper/)
-
-<div align="right" class="News">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-### Action
-- [Spelunky](https://tinysubversions.com/game/spelunky/)
-- [Game of Bombs](https://gameofbombs.com/landing)
-- [Scrambird](https://abagames.github.io/crisp-game-lib-games/?scrambird)
-
-<div align="right" class="News">
-  <b><a href="#index">↥ Back To Top</a></b>
-</div>
-
-### Strategy
-- [FreeCiv](https://www.freecivweb.org/)
+### Action & Strategy
+- [Spelunky](https://tinysubversions.com/game/spelunky/) : A web porting of the exploration platform game
+- [Game of Bombs](https://gameofbombs.com/landing) : A web porting of the famous bomberman game
+- [Scrambird](https://abagames.github.io/crisp-game-lib-games/?scrambird) : 
+- [FreeCiv](https://www.freecivweb.org/) : A web porting of the famous Civilization clone
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ### Others
-- [LCD Games](http://bdrgames.nl/lcdgames/)
+- [LCD Games](http://bdrgames.nl/lcdgames/) : A collection of old LCD games for nostalgic pals
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
