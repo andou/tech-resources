@@ -45,6 +45,14 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
   - <a href="#news">News</a>
   - <a href="#magazines">Magazines</a>
   - <a href="#recommended-reading">Recommended Reading</a>
+- **Browser games** (c'mon, slack off!) 
+  - <a href="#match-x">Match X</a>
+  - <a href="#words">Words</a>
+  - <a href="#tiles">Tiles</a>
+  - <a href="#relaxing">Relaxing</a>
+  - <a href="#action">Action</a>
+  - <a href="#strategy">Strategy</a>
+  - <a href="#others">Others</a>
 - <a href="#credits">Credits</a>
 </ul>
 
@@ -389,6 +397,61 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [How browsers work](https://taligarsiel.com/Projects/howbrowserswork1.htm?utm_source=tldrnewsletter) : An article that explains how web browsers work behind the scenes.
 
 <div align="right" class="Recommended+Reading">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+## Browser games
+
+### Match X
+- [Otteretto](https://otteretto.app/classic/)
+- [Gridland](http://gridland.doublespeakgames.com/)
+
+<div align="right" class="News">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Words
+- [Par🇮🇹le](https://pietroppeter.github.io/wordle-it/)
+- [Wordle](https://www.nytimes.com/games/wordle/index.html)
+
+<div align="right" class="News">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Tiles
+- [Six sided streets](https://csklimowski.itch.io/six-sided-streets)
+
+<div align="right" class="News">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Relaxing
+- [Townscaper](https://oskarstalberg.com/Townscaper/)
+
+<div align="right" class="News">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Action
+- [Spelunky](https://tinysubversions.com/game/spelunky/)
+- [Game of Bombs](https://gameofbombs.com/landing)
+- [Scrambird](https://abagames.github.io/crisp-game-lib-games/?scrambird)
+
+<div align="right" class="News">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Strategy
+- [FreeCiv](https://www.freecivweb.org/)
+
+<div align="right" class="News">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+### Others
+- [LCD Games](http://bdrgames.nl/lcdgames/)
+
+<div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
