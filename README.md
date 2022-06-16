@@ -49,7 +49,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
   - <a href="#match-x">Match X</a>
   - <a href="#words">Words</a>
   - <a href="#city-builders--tiles">City builders & Tiles</a>
-  - <a href="#action-strategy">Action & Strategy</a>
+  - <a href="#action--strategy">Action & Strategy</a>
   - <a href="#others">Others</a>
 - <a href="#credits">Credits</a>
 </ul>
