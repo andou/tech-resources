@@ -419,6 +419,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 ### City builders & Tiles
 - [Six sided streets](https://csklimowski.itch.io/six-sided-streets) : A tile placing city builder, which seems like an ancestor of Dorfromantic
 - [Townscaper](https://oskarstalberg.com/Townscaper/) : More like a toy than a game, a no-pressure city builder
+- [Green Mahjong](http://greenmahjong.daniel-beck.org/) : Solitaire mahjong game done in HTML/CSS/JS
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
