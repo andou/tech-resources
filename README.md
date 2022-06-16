@@ -427,7 +427,8 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 ### Action & Strategy
 - [Spelunky](https://tinysubversions.com/game/spelunky/) : A web porting of the exploration platform game
 - [Game of Bombs](https://gameofbombs.com/landing) : A web porting of the famous bomberman game
-- [Scrambird](https://abagames.github.io/crisp-game-lib-games/?scrambird) : 
+- [Hextris](https://hextris.io/) : A hex version of tetris, sort of
+- [Scrambird](https://abagames.github.io/crisp-game-lib-games/?scrambird) : A flappy birds clone
 - [FreeCiv](https://www.freecivweb.org/) : A web porting of the famous Civilization clone
 - [Skifree](https://basicallydan.github.io/skifree.js/) : A JavaScript port of the classic PC Game, Skifree
 
