@@ -429,6 +429,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [Game of Bombs](https://gameofbombs.com/landing) : A web porting of the famous bomberman game
 - [Scrambird](https://abagames.github.io/crisp-game-lib-games/?scrambird) : 
 - [FreeCiv](https://www.freecivweb.org/) : A web porting of the famous Civilization clone
+- [Skifree](https://basicallydan.github.io/skifree.js/) : A JavaScript port of the classic PC Game, Skifree
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
