@@ -411,6 +411,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 ### Words
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) : The very famous NY Times word game
 - [Par🇮🇹le](https://pietroppeter.github.io/wordle-it/) : Basically the italian version of Wordle
+- [Claustrowordia](https://anttihaavikko.itch.io/claustrowordia) : A crossword type game with no hints to how to fill the board
 
 <div align="right" class="News">
   <b><a href="#index">↥ Back To Top</a></b>
