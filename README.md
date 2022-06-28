@@ -258,6 +258,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 
 ### CSS
 - [Awesome CSS](https://github.com/awesome-css-group/awesome-css#readme) : Comprehensive list of CSS resources
+- [HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) : a workflow to create email client friendly emails with React
 
 <div align="right" class="CSS">
   <b><a href="#index">↥ Back To Top</a></b>
