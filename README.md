@@ -142,6 +142,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [htmlq](https://github.com/mgdm/htmlq) : Like jq, but for HTML
 - [magic-trace](https://github.com/janestreet/magic-trace) : A tool that collects and displays high-resolution traces of what a process is doing
 - [atuin](https://github.com/ellie/atuin) : A tool that replaces your existing shell history with a SQLite database
+- [fzf](https://github.com/junegunn/fzf) : A general-purpose command-line fuzzy finder
 
 
 <div align="right" class="Smart+Shell">
