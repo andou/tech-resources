@@ -95,7 +95,8 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 
 ### Disposable Services
 - [YOPmail](https://yopmail.com/): A disposable mail services
-- [Guerrilla Mail](https://www.guerrillamail.com/): Another disposable mail services
+- [TMail](https://www.tmail.gg/en): Another disposable mail services
+- [Guerrilla Mail](https://www.guerrillamail.com/): ~**DEPRECATED** Another disposable mail services~
 
 <div align="right" class="Disposable+Services">
   <b><a href="#index">↥ Back To Top</a></b>
