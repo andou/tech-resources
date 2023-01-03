@@ -69,6 +69,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [JSON Editor Online](https://jsoneditoronline.org/) : My favourite JSON checker / editor
 - [Online JSON Viewer](http://jsonviewer.stack.hu/) : Another valid JSON checker / editor
 - [XML Sitemap Generator - BASH](https://www.plop.at/en/xml-sitemap.html) : A shell script to locally generate XML sitemaps
+- [Computer Science Tools](https://www.compscilib.com/) : Tools to learn and check your work in Computer Science Theory/Math classes
 
 <div align="right" class="Checking+websites">
   <b><a href="#index">↥ Back To Top</a></b>
