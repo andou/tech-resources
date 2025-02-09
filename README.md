@@ -88,6 +88,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [transfer.sh](https://transfer.sh/) : Easy file sharing from the command line
 - [witeboard](https://witeboard.com/) : A real-time shared whiteboard, no registration needed
 - [Spniptt OTS](https://www.sniptt.com/ots/) : Share end-to-end encrypted secrets with others via a one-time URL
+- [OneCompiler](https://onecompiler.com/) : Write, run and share code online for more than 70 programming languages & databases
 
 <div align="right" class="Sharing+Stuff">
   <b><a href="#index">↥ Back To Top</a></b>
