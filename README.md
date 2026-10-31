@@ -68,6 +68,7 @@ Please also check the [`$ terminal`](https://tech-resources-term.vercel.app/) ma
 - [Ionos Website Checker](https://www.ionos.com/tools/website-checker) : Generic (security, accessibility, speed) website checker
 - [JSON Editor Online](https://jsoneditoronline.org/) : My favourite JSON checker / editor
 - [Online JSON Viewer](http://jsonviewer.stack.hu/) : Another valid JSON checker / editor
+- [BestJSON](https://bestjson.com/json-diff) : Compare JSON structures and inspect added, removed, and changed values locally without an account.
 - [XML Sitemap Generator - BASH](https://www.plop.at/en/xml-sitemap.html) : A shell script to locally generate XML sitemaps
 
 <div align="right" class="Checking+websites">
